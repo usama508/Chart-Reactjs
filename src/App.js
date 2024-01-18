@@ -64,6 +64,8 @@ function App() {
         return s;
       },
     },
+
+    //plotoptions
     plotOptions: {
       series: {
         fillColor: {
